@@ -1,0 +1,7 @@
+{
+  "name": "fireChat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
